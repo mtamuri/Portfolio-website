@@ -67,7 +67,7 @@ body {
   }
   /* hero background image */
 .bgimage {
-  height:150vh;
+  height:100vh;
   background: url('images/suit.jpg');
   background-size:cover;
   position:relative;
