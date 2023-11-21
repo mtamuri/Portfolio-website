@@ -40,14 +40,14 @@ body {
   
   main {
     padding: 20px;
-    background-color: white;
+    background-color: rgb(122, 113, 113);
   }
   
   section {
-    border: 1px solid #ccc;
+    border: 1px solid rgb(130, 147, 116)939;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f0f0f0;
+    background-color: #9b4c4c;
   }
   
   section h2 {
@@ -67,8 +67,8 @@ body {
   }
   /* hero background image */
 .bgimage {
-  height:100vh;
-  background: url('images/heroImage.jpeg');
+  height:150vh;
+  background: url('images/suit.jpg');
   background-size:cover;
   position:relative;
 }
